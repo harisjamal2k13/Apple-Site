@@ -1,0 +1,137 @@
+.container{
+    margin: 0;
+    width: 1260px;
+}
+
+body{
+    margin: -1px;
+    font-family: Arial, Verdana, sans-serif;}
+.top{
+    width: 100%;
+    height: 45px;
+    background: black;
+    /*margin: -8px 0 0 -8px; */
+       float: left;
+}
+img{
+    float: left;
+    margin: 0 0 0 130px;
+}
+
+li {
+    display: inline;
+    font-size: 80%;
+    color:white;
+    margin: 50px;
+}
+.banner{
+    width: 100%;
+    height: 600px;
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+
+}
+.boxes{
+    width: 1260px;
+    height: 200px;
+    float: left;
+    margin: 2px 0 0 0;
+}
+.box1{
+    width: 315px;
+    height: 200px;
+    background-image: url("box1.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.box2{
+    width: 315px;
+    height: 200px;
+    background-image: url("box2.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.box3{
+    width: 315px;
+    height: 200px;
+    background-image: url("box3.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.box4{
+    width: 315px;
+    height: 200px;
+    background-image: url("box4.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.footer{
+    width: 1260px;
+    height: 510px;
+    background-color: #f2f2f2;
+    
+}
+.ft1{
+    display: block;
+    margin: 0 0 0 250px;
+    float: left;
+    width: 150px;
+    font-size: 90%;
+     }
+     .ft2{
+    display: block;
+    float: left;
+    width: 150px;
+    font-size: 90%;
+     }
+     .ft3{
+    display: block;
+      float: left;
+    width: 150px;
+    margin: 0 0 0 20px;
+    font-size: 90%;
+     }
+     .ft4{
+    display: block;
+       float: left;
+    width: 150px;
+    font-size: 90%;
+     }
+     .ft5{
+    display: block;
+      float: left;
+    width: 150px;
+    margin: 0 10px 0 0;
+    font-size: 90%;
+     }
+.ft-1{
+    display: block;
+    margin: 2px;
+    float: left;
+    width: 150px;
+    color: black;
+    font-size: 90%;
+}
+p.para1{
+    width: 750px;
+    float: left;
+    margin: 50px 0 0 -577px;
+    border-bottom: 1px solid black;
+    font-size: 80%;
+}
+a{
+     text-decoration: none;
+}
+p.para2{
+    float: left;
+    margin: 10px 0 0 -727px;
+    font-size: 80%;
+    width: 750px;
+}
+img.us{
+    border-radius: 20px;
+   position: relative;
+   left: 750px;
+   bottom: 4px;
+
+}
